@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InspiroboWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="new_quote">New Quote</string>
+    <string name="inspirobot_appwidget_description">A widget that shows a new InspiroBot Quote every 30 minutes</string>
+</resources>
